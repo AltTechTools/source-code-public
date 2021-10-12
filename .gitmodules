@@ -49,3 +49,6 @@
 [submodule "dmenu-edits"]
 	path = dmenu-edits
 	url = https://github.com/AltTechTools/dmenu-edits.git
+[submodule "onscreenkeyboards"]
+	path = onscreenkeyboards
+	url = https://github.com/AltTechTools/onscreenkeyboards.git
