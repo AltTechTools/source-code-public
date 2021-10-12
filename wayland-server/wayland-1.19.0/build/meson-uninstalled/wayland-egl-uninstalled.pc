@@ -1,0 +1,11 @@
+prefix=/home/mobian/source-code/wayland-server/wayland-1.19.0/build
+srcdir=/home/mobian/source-code/wayland-server/wayland-1.19.0
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: wayland-egl
+Description: Frontend wayland-egl library
+Version: 18.1.0
+Requires: wayland-client
+Libs: -L${prefix}/egl -lwayland-egl
+Cflags: -I${prefix}/egl -I${srcdir}/egl -I${prefix}/src -I${srcdir}/src

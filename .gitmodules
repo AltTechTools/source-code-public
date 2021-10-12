@@ -1,0 +1,45 @@
+[submodule "dwm-orig"]
+	path = dwm-orig
+	url = https://git.suckless.org/dwm
+[submodule "dwm-origbutupdated"]
+	path = dwm-origbutupdated
+	url = https://github.com/AltTechTools/dwm-edit-pinephone.git
+[submodule "dwm-edit"]
+	path = dwm-edit
+	url = https://github.com/AltTechTools/dwm-edit.git
+[submodule "dmenu-orig"]
+	path = dmenu-orig
+	url = https://git.suckless.org/dmenu
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/AltTechTools/dmenu.git
+[submodule "onscreenkeyboard"]
+	path = onscreenkeyboard
+	url = https://github.com/AltTechTools/onscreenkeyboard.git
+[submodule "dwl-pinephone"]
+	path = dwl-dwm4wayland/dwl
+	url = https://github.com/djpohly/dwl.git
+[submodule "virtualkeyboard/svkbd/svkbd2"]
+	path = virtualkeyboard/svkbd/svkbd2
+	url = https://github.com/AltTechTools/svkbd-edit.git
+[submodule "simpleterminal"]
+	path = simpleterminal/st
+	url = https://git.suckless.org/st
+[submodule "mesonbuild"]
+	path = meson/meson
+	url = https://github.com/mesonbuild/meson.git
+[submodule "lightdm-mini-greeter"]
+	path = minigreeter/lightdm-mini-greeter
+	url = https://github.com/prikhi/lightdm-mini-greeter.git
+[submodule "nody-greeter"]
+	path = nody-greeter/nody-greeter
+	url = https://github.com/JezerM/nody-greeter.git
+[submodule "wayland"]
+	path = wayland/wayland
+	url = https://gitlab.freedesktop.org/wayland/wayland.git
+[submodule "wlroots"]
+	path = wlroots/wlroots
+	url = https://github.com/swaywm/wlroots.git
+[submodule "wshowkeys-git"]
+	path = wshowkeys/wshowkeys-git
+	url = https://aur.archlinux.org/wshowkeys-git.git

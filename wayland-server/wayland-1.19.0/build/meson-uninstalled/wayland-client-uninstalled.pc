@@ -1,0 +1,12 @@
+prefix=/home/mobian/source-code/wayland-server/wayland-1.19.0/build
+srcdir=/home/mobian/source-code/wayland-server/wayland-1.19.0
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: Wayland Client
+Description: Wayland client side library
+Version: 1.19.0
+Requires.private: libffi
+Libs: -L${prefix}/src -lwayland-client
+Libs.private: -lm -pthread
+Cflags: -I${prefix}/src -I${srcdir}/src -I${prefix}/. -I${srcdir}/. -I${prefix}/src/. -I${srcdir}/src/.

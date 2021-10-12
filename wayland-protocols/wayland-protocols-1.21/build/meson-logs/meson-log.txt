@@ -1,0 +1,264 @@
+Build started at 2021-09-12T00:11:50.611161
+Main binary: /usr/bin/python3
+Build Options: -Dprefix=/usr -Dbuildtype=release
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21
+Build dir: /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build
+Build type: native build
+Project name: wayland-protocols
+Project version: 1.21
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Pkg-config binary for MachineChoice.BUILD is not cached.
+None of 'PKG_CONFIG' are defined in the environment, not changing global flags.
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'wayland-scanner' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion wayland-scanner` -> 0
+1.19.0
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags wayland-scanner` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-scanner --libs` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-scanner --libs` -> 0
+
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Build-time dependency wayland-scanner found: YES 1.19.0
+Configuring wayland-protocols.pc using configuration
+Configuring wayland-protocols-uninstalled.pc using configuration
+Program scan.sh found: YES (/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/tests/scan.sh)
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --variable=wayland_scanner wayland-scanner` -> 0
+/usr/bin/wayland-scanner
+Got pkgconfig variable wayland_scanner : /usr/bin/wayland-scanner
+Program /usr/bin/wayland-scanner found: YES (/usr/bin/wayland-scanner)
+Pkg-config binary for MachineChoice.HOST is not cached.
+None of 'PKG_CONFIG' are defined in the environment, not changing global flags.
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'wayland-client' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion wayland-client` -> 0
+1.19.0
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags wayland-client` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-client --libs` -> 0
+-L/usr/lib/aarch64-linux-gnu -lwayland-client
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-client --libs` -> 0
+-lwayland-client
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency wayland-client found: YES 1.19.0
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'wayland-server' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion wayland-server` -> 0
+1.19.0
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags wayland-server` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-server --libs` -> 0
+-L/usr/lib/aarch64-linux-gnu -lwayland-server
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config wayland-server --libs` -> 0
+-lwayland-server
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency wayland-server found: YES 1.19.0
+Adding test "scan-stable_presentation_time_presentation_time_xml"
+Adding test "scan-stable_viewporter_viewporter_xml"
+Adding test "scan-stable_xdg_shell_xdg_shell_xml"
+Adding test "scan-staging_xdg_activation_xdg_activation_v1_xml"
+Adding test "scan-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml"
+Adding test "scan-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml"
+Adding test "scan-unstable_input_method_input_method_unstable_v1_xml"
+Adding test "scan-unstable_input_timestamps_input_timestamps_unstable_v1_xml"
+Adding test "scan-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml"
+Adding test "scan-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml"
+Adding test "scan-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml"
+Adding test "scan-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml"
+Adding test "scan-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml"
+Adding test "scan-unstable_primary_selection_primary_selection_unstable_v1_xml"
+Adding test "scan-unstable_relative_pointer_relative_pointer_unstable_v1_xml"
+Adding test "scan-unstable_tablet_tablet_unstable_v1_xml"
+Adding test "scan-unstable_tablet_tablet_unstable_v2_xml"
+Adding test "scan-unstable_text_input_text_input_unstable_v1_xml"
+Adding test "scan-unstable_text_input_text_input_unstable_v3_xml"
+Adding test "scan-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml"
+Adding test "scan-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml"
+Adding test "scan-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml"
+Adding test "scan-unstable_xdg_output_xdg_output_unstable_v1_xml"
+Adding test "scan-unstable_xdg_shell_xdg_shell_unstable_v5_xml"
+Adding test "scan-unstable_xdg_shell_xdg_shell_unstable_v6_xml"
+Adding test "scan-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml"
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: cc /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckc.c -o /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: cc (gcc 10.2.1 "cc (Debian 10.2.1-6) 10.2.1 20210110")
+C linker for the build machine: cc ld.bfd 2.35.2
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CXX' are defined in the environment, not changing global flags.
+None of 'CXXFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: c++ /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckcpp.cc -o /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckcpp.exe
+C++ compiler for the build machine: c++ (gcc 10.2.1 "c++ (Debian 10.2.1-6) 10.2.1 20210110")
+C++ linker for the build machine: c++ ld.bfd 2.35.2
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: cc /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckc.c -o /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: cc (gcc 10.2.1 "cc (Debian 10.2.1-6) 10.2.1 20210110")
+C linker for the host machine: cc ld.bfd 2.35.2
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CXX' are defined in the environment, not changing global flags.
+None of 'CXXFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: c++ /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckcpp.cc -o /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/sanitycheckcpp.exe
+C++ compiler for the host machine: c++ (gcc 10.2.1 "c++ (Debian 10.2.1-6) 10.2.1 20210110")
+C++ linker for the host machine: c++ ld.bfd 2.35.2
+Program replace.py found: YES (/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/tests/replace.py)
+Adding test "test-build-pedantic-stable_presentation_time_presentation_time_xml"
+Adding test "test-build-cxx-stable_presentation_time_presentation_time_xml"
+Adding test "test-build-pedantic-stable_viewporter_viewporter_xml"
+Adding test "test-build-cxx-stable_viewporter_viewporter_xml"
+Adding test "test-build-pedantic-stable_xdg_shell_xdg_shell_xml"
+Adding test "test-build-cxx-stable_xdg_shell_xdg_shell_xml"
+Adding test "test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml"
+Adding test "test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml"
+Adding test "test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_input_method_input_method_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_tablet_tablet_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml"
+Adding test "test-build-cxx-unstable_tablet_tablet_unstable_v2_xml"
+Adding test "test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_text_input_text_input_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml"
+Adding test "test-build-cxx-unstable_text_input_text_input_unstable_v3_xml"
+Adding test "test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml"
+Adding test "test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml"
+Adding test "test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml"
+Adding test "test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml"
+Adding test "test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml"
+Adding test "test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml"
+Adding test "test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml"
+Adding test "test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml"
+Adding test "test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml"
+Build targets in project: 180
+
+Found ninja-1.10.1 at /usr/bin/ninja
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/tmpob6pjf62
+Command line:  cc /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/tmpob6pjf62/testfile.c -o /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/tmpob6pjf62/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/aarch64-linux-gnu/10/
+programs: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../lib/:/lib/aarch64-linux-gnu/10/:/lib/aarch64-linux-gnu/:/lib/../lib/:/usr/lib/aarch64-linux-gnu/10/:/usr/lib/aarch64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/tmpi7tlxmwf
+Command line:  c++ /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/tmpi7tlxmwf/testfile.cpp -o /home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build/meson-private/tmpi7tlxmwf/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/aarch64-linux-gnu/10/
+programs: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../lib/:/lib/aarch64-linux-gnu/10/:/lib/aarch64-linux-gnu/:/lib/../lib/:/usr/lib/aarch64-linux-gnu/10/:/usr/lib/aarch64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.

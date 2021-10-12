@@ -1,0 +1,11 @@
+prefix=/home/mobian/source-code/wayland-server/wayland-1.19.0/build
+srcdir=/home/mobian/source-code/wayland-server/wayland-1.19.0
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: Wayland Cursor
+Description: Wayland cursor helper library
+Version: 1.19.0
+Requires.private: wayland-client
+Libs: -L${prefix}/cursor -lwayland-cursor
+Cflags: -I${prefix}/cursor -I${srcdir}/cursor -I${prefix}/. -I${srcdir}/. -I${prefix}/src/. -I${srcdir}/src/.

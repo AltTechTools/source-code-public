@@ -1,0 +1,8 @@
+prefix=/home/mobian/source-code/wayland-server/wayland-1.19.0/build
+srcdir=/home/mobian/source-code/wayland-server/wayland-1.19.0
+libdir=${prefix}/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: Wayland Scanner
+Description: Wayland scanner
+Version: 1.19.0

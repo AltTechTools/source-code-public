@@ -1,0 +1,37 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/bin/wayland-scanner
+/usr/include/wayland-server-protocol.h
+/usr/include/wayland-client-protocol.h
+/usr/lib/aarch64-linux-gnu/libwayland-server.so.0.1.0
+/usr/lib/aarch64-linux-gnu/libwayland-server.so.0
+/usr/lib/aarch64-linux-gnu/libwayland-server.so
+/usr/lib/aarch64-linux-gnu/libwayland-client.so.0.3.0
+/usr/lib/aarch64-linux-gnu/libwayland-client.so.0
+/usr/lib/aarch64-linux-gnu/libwayland-client.so
+/usr/lib/aarch64-linux-gnu/libwayland-cursor.so.0.0.0
+/usr/lib/aarch64-linux-gnu/libwayland-cursor.so.0
+/usr/lib/aarch64-linux-gnu/libwayland-cursor.so
+/usr/lib/aarch64-linux-gnu/libwayland-egl.so.1.0.0
+/usr/lib/aarch64-linux-gnu/libwayland-egl.so.1
+/usr/lib/aarch64-linux-gnu/libwayland-egl.so
+/usr/include/wayland-util.h
+/usr/include/wayland-server.h
+/usr/include/wayland-server-core.h
+/usr/include/wayland-client.h
+/usr/include/wayland-client-core.h
+/usr/include/wayland-cursor.h
+/usr/include/wayland-egl.h
+/usr/include/wayland-egl-core.h
+/usr/include/wayland-egl-backend.h
+/usr/include/wayland-version.h
+/usr/lib/aarch64-linux-gnu/pkgconfig/wayland-scanner.pc
+/usr/lib/aarch64-linux-gnu/pkgconfig/wayland-server.pc
+/usr/lib/aarch64-linux-gnu/pkgconfig/wayland-client.pc
+/usr/lib/aarch64-linux-gnu/pkgconfig/wayland-cursor.pc
+/usr/lib/aarch64-linux-gnu/pkgconfig/wayland-egl.pc
+/usr/lib/aarch64-linux-gnu/pkgconfig/wayland-egl-backend.pc
+/usr/share/wayland/wayland-scanner.mk
+/usr/share/wayland/wayland.xml
+/usr/share/wayland/wayland.dtd
+/usr/share/aclocal/wayland-scanner.m4

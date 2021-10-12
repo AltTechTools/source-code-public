@@ -1,0 +1,597 @@
+Build started at 2021-09-11T23:50:25.516775
+Main binary: /usr/bin/python3
+Build Options: -Ddocumentation=false -Dprefix=/usr -Dbuildtype=release
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /home/mobian/source-code/wayland-server/wayland-1.19.0
+Build dir: /home/mobian/source-code/wayland-server/wayland-1.19.0/build
+Build type: native build
+Project name: wayland
+Project version: 1.19.0
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckc.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: cc (gcc 10.2.1 "cc (Debian 10.2.1-6) 10.2.1 20210110")
+C linker for the host machine: cc ld.bfd 2.35.2
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CXX' are defined in the environment, not changing global flags.
+None of 'CXXFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: c++ /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckcpp.cc -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckcpp.exe
+C++ compiler for the host machine: c++ (gcc 10.2.1 "c++ (Debian 10.2.1-6) 10.2.1 20210110")
+C++ linker for the host machine: c++ ld.bfd 2.35.2
+None of 'CC' are defined in the environment, not changing global flags.
+None of 'CFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckc.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckc.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: cc (gcc 10.2.1 "cc (Debian 10.2.1-6) 10.2.1 20210110")
+C linker for the build machine: cc ld.bfd 2.35.2
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CXX' are defined in the environment, not changing global flags.
+None of 'CXXFLAGS' are defined in the environment, not changing global flags.
+None of 'LDFLAGS' are defined in the environment, not changing global flags.
+None of 'CPPFLAGS' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: c++ /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckcpp.cc -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckcpp.exe -pipe -D_FILE_OFFSET_BITS=64
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/sanitycheckcpp.exe
+C++ compiler for the build machine: c++ (gcc 10.2.1 "c++ (Debian 10.2.1-6) 10.2.1 20210110")
+C++ linker for the build machine: c++ ld.bfd 2.35.2
+Build machine cpu family: aarch64
+Build machine cpu: aarch64
+Host machine cpu family: aarch64
+Host machine cpu: aarch64
+Target machine cpu family: aarch64
+Target machine cpu: aarch64
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpmzjx7af4
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpmzjx7af4/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpmzjx7af4/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wunused-parameter -Wno-unused-parameter 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wno-unused-parameter: YES 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp8j04g3q0
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp8j04g3q0/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp8j04g3q0/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wstrict-prototypes 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wstrict-prototypes: YES 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpkp2_0y7a
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpkp2_0y7a/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpkp2_0y7a/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -Wmissing-prototypes 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -Wmissing-prototypes: YES 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpp822uecn
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpp822uecn/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpp822uecn/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fvisibility=hidden 
+
+Code:
+ extern int i;
+int i;
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Compiler for C supports arguments -fvisibility=hidden: YES 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpqky6nz53
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpqky6nz53/testfile.c -pipe -E -P -D_FILE_OFFSET_BITS=64 -P -O0 
+
+Code:
+ 
+        #ifdef __has_include
+         #if !__has_include("sys/prctl.h")
+          #error "Header 'sys/prctl.h' could not be found"
+         #endif
+        #else
+         #include <sys/prctl.h>
+        #endif
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Has header "sys/prctl.h" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpf5j2p6v2
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpf5j2p6v2/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpf5j2p6v2/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #define accept4 meson_disable_define_of_accept4
+        
+        #include <limits.h>
+        #undef accept4
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char accept4 (void);
+        
+        #if defined __stub_accept4 || defined __stub___accept4
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return accept4 ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "accept4" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpll6c9ula
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpll6c9ula/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpll6c9ula/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #define mkostemp meson_disable_define_of_mkostemp
+        
+        #include <limits.h>
+        #undef mkostemp
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char mkostemp (void);
+        
+        #if defined __stub_mkostemp || defined __stub___mkostemp
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return mkostemp ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "mkostemp" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp_el3sffw
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp_el3sffw/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp_el3sffw/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #define posix_fallocate meson_disable_define_of_posix_fallocate
+        
+        #include <limits.h>
+        #undef posix_fallocate
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char posix_fallocate (void);
+        
+        #if defined __stub_posix_fallocate || defined __stub___posix_fallocate
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return posix_fallocate ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "posix_fallocate" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp88v6fqbj
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp88v6fqbj/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp88v6fqbj/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #define prctl meson_disable_define_of_prctl
+        
+        #include <limits.h>
+        #undef prctl
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char prctl (void);
+        
+        #if defined __stub_prctl || defined __stub___prctl
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return prctl ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "prctl" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpnr_ncdj9
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpnr_ncdj9/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpnr_ncdj9/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #define memfd_create meson_disable_define_of_memfd_create
+        
+        #include <limits.h>
+        #undef memfd_create
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char memfd_create (void);
+        
+        #if defined __stub_memfd_create || defined __stub___memfd_create
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return memfd_create ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "memfd_create" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpzgg307uu
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpzgg307uu/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpzgg307uu/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #define strndup meson_disable_define_of_strndup
+        
+        #include <limits.h>
+        #undef strndup
+        
+        #ifdef __cplusplus
+        extern "C"
+        #endif
+        char strndup (void);
+        
+        #if defined __stub_strndup || defined __stub___strndup
+        fail fail fail this function is not going to work
+        #endif
+        
+        int main(void) {
+          return strndup ();
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpzgg307uu/testfile.c:10:14: warning: conflicting types for built-in function 'strndup'; expected 'char *(const char *, long unsigned int)' [-Wbuiltin-declaration-mismatch]
+   10 |         char strndup (void);
+      |              ^~~~~~~
+
+Checking for function "strndup" : YES 
+Pkg-config binary for MachineChoice.HOST is not cached.
+None of 'PKG_CONFIG' are defined in the environment, not changing global flags.
+Pkg-config binary missing from cross or native file, or env var undefined.
+Trying a default Pkg-config fallback at pkg-config
+Found pkg-config: /usr/bin/pkg-config (0.29.2)
+Determining dependency 'libffi' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion libffi` -> 0
+3.3
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags libffi` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config libffi --libs` -> 0
+-lffi
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config libffi --libs` -> 0
+-lffi
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp6j6t8f81
+Command line:  c++ /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp6j6t8f81/testfile.cpp -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp6j6t8f81/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive -Wl,--start-group -lffi -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Run-time dependency libffi found: YES 3.3
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp09d9w8x1
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp09d9w8x1/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp09d9w8x1/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #include <sys/signalfd.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef SFD_CLOEXEC
+                SFD_CLOEXEC;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <sys/signalfd.h> has symbol "SFD_CLOEXEC" : YES 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp4_086ivl
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp4_086ivl/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp4_086ivl/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #include <sys/timerfd.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef TFD_CLOEXEC
+                TFD_CLOEXEC;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <sys/timerfd.h> has symbol "TFD_CLOEXEC" : YES 
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpekxznyyz
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpekxznyyz/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpekxznyyz/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ 
+        #include <time.h>
+        int main(void) {
+            /* If it's not defined as a macro, try to use as a symbol */
+            #ifndef CLOCK_MONOTONIC
+                CLOCK_MONOTONIC;
+            #endif
+            return 0;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Header <time.h> has symbol "CLOCK_MONOTONIC" : YES 
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp6swrhhqw
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp6swrhhqw/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp6swrhhqw/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 
+
+Code:
+ #include <time.h>
+#include <limits.h>
+
+        #if defined __stub_clock_gettime || defined __stub___clock_gettime
+        fail fail fail this function is not going to work
+        #endif
+        
+int main(void) {
+            void *a = (void*) &clock_gettime;
+            long long b = (long long) a;
+            return (int) b;
+        }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Checking for function "clock_gettime" : YES 
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'expat' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion expat` -> 0
+2.2.10
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags expat` -> 0
+
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config expat --libs` -> 0
+-L/usr/lib/aarch64-linux-gnu -lexpat
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config expat --libs` -> 0
+-lexpat
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+None of 'CXX_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpomqit0jz
+Command line:  c++ /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpomqit0jz/testfile.cpp -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpomqit0jz/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -fpermissive 
+
+Code:
+ #include<stdio.h>
+        
+        int main(void) {
+            printf("%ld\n", (long)(sizeof(void *)));
+            return 0;
+        };
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Program stdout:
+
+8
+
+Program stderr:
+
+
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp7n4tksmf
+Command line:  c++ /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp7n4tksmf/testfile.cpp -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmp7n4tksmf/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 -fpermissive --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/aarch64-linux-gnu/10/
+programs: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../lib/:/lib/aarch64-linux-gnu/10/:/lib/aarch64-linux-gnu/:/lib/../lib/:/usr/lib/aarch64-linux-gnu/10/:/usr/lib/aarch64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+Run-time dependency expat found: YES 2.2.10
+Pkg-config binary for MachineChoice.HOST is cached.
+Determining dependency 'libxml-2.0' with pkg-config executable '/usr/bin/pkg-config'
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --modversion libxml-2.0` -> 0
+2.9.10
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config --cflags libxml-2.0` -> 0
+-I/usr/include/libxml2
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config libxml-2.0 --libs` -> 0
+-L/usr/lib/aarch64-linux-gnu -lxml2
+PKG_CONFIG_PATH: 
+Called `/usr/bin/pkg-config libxml-2.0 --libs` -> 0
+-lxml2
+None of 'PKG_CONFIG_PATH' are defined in the environment, not changing global flags.
+Run-time dependency libxml-2.0 found: YES 2.9.10
+Configuring config.h using configuration
+Configuring wayland-version.h using configuration
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpgucts9ms
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpgucts9ms/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpgucts9ms/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -lm -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library m found: YES
+Run-time dependency threads found: YES
+Program nm found: YES (/usr/bin/nm)
+Program wayland-egl-symbols-check found: YES (/home/mobian/source-code/wayland-server/wayland-1.19.0/egl/wayland-egl-symbols-check)
+Adding test "wayland-egl symbols check"
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpegxq8aae
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpegxq8aae/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpegxq8aae/output.exe -pipe -D_FILE_OFFSET_BITS=64 -O0 -Wl,--start-group -ldl -Wl,--end-group -Wl,--allow-shlib-undefined 
+
+Code:
+ int main(void) { return 0; }
+
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Library dl found: YES
+Dependency threads found: YES unknown (cached)
+Dependency threads found: YES unknown (cached)
+Library dl found: YES
+Adding benchmark "fixed-benchmark"
+Adding test "cpp-compile-test"
+Program sed found: YES (/usr/bin/sed)
+Program scanner-test.sh found: YES (/home/mobian/source-code/wayland-server/wayland-1.19.0/tests/scanner-test.sh)
+Adding test "scanner-test"
+Adding test "array-test"
+Adding test "client-test"
+Adding test "display-test"
+Adding test "connection-test"
+Adding test "event-loop-test"
+Adding test "fixed-test"
+Adding test "interface-test"
+Adding test "list-test"
+Adding test "map-test"
+Adding test "sanity-test"
+Adding test "socket-test"
+Adding test "queue-test"
+Adding test "signal-test"
+Adding test "newsignal-test"
+Adding test "resources-test"
+Adding test "message-test"
+Adding test "compositor-introspection-test"
+Adding test "protocol-logger-test"
+Adding test "headers-test"
+Adding test "os-wrappers-test"
+Build targets in project: 40
+
+Option buildtype is: release [default: debugoptimized]
+Found ninja-1.10.1 at /usr/bin/ninja
+Running compile:
+Working directory:  /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpgx8ch3ls
+Command line:  cc /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpgx8ch3ls/testfile.c -o /home/mobian/source-code/wayland-server/wayland-1.19.0/build/meson-private/tmpgx8ch3ls/output.obj -pipe -c -D_FILE_OFFSET_BITS=64 -O0 --print-search-dirs 
+
+Code:
+ 
+Compiler stdout:
+ install: /usr/lib/gcc/aarch64-linux-gnu/10/
+programs: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/bin/
+libraries: =/usr/lib/gcc/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/10/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../aarch64-linux-gnu/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../lib/:/lib/aarch64-linux-gnu/10/:/lib/aarch64-linux-gnu/:/lib/../lib/:/usr/lib/aarch64-linux-gnu/10/:/usr/lib/aarch64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../../aarch64-linux-gnu/lib/:/usr/lib/gcc/aarch64-linux-gnu/10/../../../:/lib/:/usr/lib/
+
+Compiler stderr:
+ 
+None of 'STRIP' are defined in the environment, not changing global flags.
+None of 'STRIP' are defined in the environment, not changing global flags.

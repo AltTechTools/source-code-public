@@ -1,0 +1,5 @@
+pkgdatadir=/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21
+
+Name: Wayland Protocols
+Description: Wayland protocol files (not installed)
+Version: 1.21

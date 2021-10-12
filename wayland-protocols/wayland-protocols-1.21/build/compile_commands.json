@@ -1,0 +1,464 @@
+[
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-pedantic-stable_presentation_time_presentation_time_xml.c.o -MF tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-pedantic-stable_presentation_time_presentation_time_xml.c.o.d -o tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-pedantic-stable_presentation_time_presentation_time_xml.c.o -c tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.c",
+    "file": "tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.c",
+    "output": "tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-pedantic-stable_presentation_time_presentation_time_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._presentation-time-code.c.o -MF tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._presentation-time-code.c.o.d -o tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._presentation-time-code.c.o -c tests/presentation-time-code.c",
+    "file": "tests/presentation-time-code.c",
+    "output": "tests/test-build-pedantic-stable_presentation_time_presentation_time_xml.p/meson-generated_.._presentation-time-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-stable_presentation_time_presentation_time_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-cxx-stable_presentation_time_presentation_time_xml.cc.o -MF tests/test-build-cxx-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-cxx-stable_presentation_time_presentation_time_xml.cc.o.d -o tests/test-build-cxx-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-cxx-stable_presentation_time_presentation_time_xml.cc.o -c tests/test-build-cxx-stable_presentation_time_presentation_time_xml.cc",
+    "file": "tests/test-build-cxx-stable_presentation_time_presentation_time_xml.cc",
+    "output": "tests/test-build-cxx-stable_presentation_time_presentation_time_xml.p/meson-generated_.._test-build-cxx-stable_presentation_time_presentation_time_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-stable_viewporter_viewporter_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-pedantic-stable_viewporter_viewporter_xml.c.o -MF tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-pedantic-stable_viewporter_viewporter_xml.c.o.d -o tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-pedantic-stable_viewporter_viewporter_xml.c.o -c tests/test-build-pedantic-stable_viewporter_viewporter_xml.c",
+    "file": "tests/test-build-pedantic-stable_viewporter_viewporter_xml.c",
+    "output": "tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-pedantic-stable_viewporter_viewporter_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-stable_viewporter_viewporter_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._viewporter-code.c.o -MF tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._viewporter-code.c.o.d -o tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._viewporter-code.c.o -c tests/viewporter-code.c",
+    "file": "tests/viewporter-code.c",
+    "output": "tests/test-build-pedantic-stable_viewporter_viewporter_xml.p/meson-generated_.._viewporter-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-stable_viewporter_viewporter_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-cxx-stable_viewporter_viewporter_xml.cc.o -MF tests/test-build-cxx-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-cxx-stable_viewporter_viewporter_xml.cc.o.d -o tests/test-build-cxx-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-cxx-stable_viewporter_viewporter_xml.cc.o -c tests/test-build-cxx-stable_viewporter_viewporter_xml.cc",
+    "file": "tests/test-build-cxx-stable_viewporter_viewporter_xml.cc",
+    "output": "tests/test-build-cxx-stable_viewporter_viewporter_xml.p/meson-generated_.._test-build-cxx-stable_viewporter_viewporter_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-pedantic-stable_xdg_shell_xdg_shell_xml.c.o -MF tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-pedantic-stable_xdg_shell_xdg_shell_xml.c.o.d -o tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-pedantic-stable_xdg_shell_xdg_shell_xml.c.o -c tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.c",
+    "file": "tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.c",
+    "output": "tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-pedantic-stable_xdg_shell_xdg_shell_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._xdg-shell-code.c.o -MF tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._xdg-shell-code.c.o.d -o tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._xdg-shell-code.c.o -c tests/xdg-shell-code.c",
+    "file": "tests/xdg-shell-code.c",
+    "output": "tests/test-build-pedantic-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._xdg-shell-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-cxx-stable_xdg_shell_xdg_shell_xml.cc.o -MF tests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-cxx-stable_xdg_shell_xdg_shell_xml.cc.o.d -o tests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-cxx-stable_xdg_shell_xdg_shell_xml.cc.o -c tests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.cc",
+    "file": "tests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.cc",
+    "output": "tests/test-build-cxx-stable_xdg_shell_xdg_shell_xml.p/meson-generated_.._test-build-cxx-stable_xdg_shell_xdg_shell_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.c.o -MF tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.c.o.d -o tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.c.o -c tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.c",
+    "file": "tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.c",
+    "output": "tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._xdg-activation-v1-code.c.o -MF tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._xdg-activation-v1-code.c.o.d -o tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._xdg-activation-v1-code.c.o -c tests/xdg-activation-v1-code.c",
+    "file": "tests/xdg-activation-v1-code.c",
+    "output": "tests/test-build-pedantic-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._xdg-activation-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.cc.o -MF tests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.cc.o.d -o tests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.cc.o -c tests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.cc",
+    "file": "tests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.cc",
+    "output": "tests/test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.p/meson-generated_.._test-build-cxx-staging_xdg_activation_xdg_activation_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._fullscreen-shell-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._fullscreen-shell-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._fullscreen-shell-unstable-v1-code.c.o -c tests/fullscreen-shell-unstable-v1-code.c",
+    "file": "tests/fullscreen-shell-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._fullscreen-shell-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_fullscreen_shell_fullscreen_shell_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._idle-inhibit-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._idle-inhibit-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._idle-inhibit-unstable-v1-code.c.o -c tests/idle-inhibit-unstable-v1-code.c",
+    "file": "tests/idle-inhibit-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._idle-inhibit-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_idle_inhibit_idle_inhibit_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._input-method-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._input-method-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._input-method-unstable-v1-code.c.o -c tests/input-method-unstable-v1-code.c",
+    "file": "tests/input-method-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._input-method-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_method_input_method_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._input-timestamps-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._input-timestamps-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._input-timestamps-unstable-v1-code.c.o -c tests/input-timestamps-unstable-v1-code.c",
+    "file": "tests/input-timestamps-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._input-timestamps-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_input_timestamps_input_timestamps_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._keyboard-shortcuts-inhibit-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._keyboard-shortcuts-inhibit-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._keyboard-shortcuts-inhibit-unstable-v1-code.c.o -c tests/keyboard-shortcuts-inhibit-unstable-v1-code.c",
+    "file": "tests/keyboard-shortcuts-inhibit-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._keyboard-shortcuts-inhibit-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_keyboard_shortcuts_inhibit_keyboard_shortcuts_inhibit_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._linux-dmabuf-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._linux-dmabuf-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._linux-dmabuf-unstable-v1-code.c.o -c tests/linux-dmabuf-unstable-v1-code.c",
+    "file": "tests/linux-dmabuf-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._linux-dmabuf-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_dmabuf_linux_dmabuf_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._linux-explicit-synchronization-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._linux-explicit-synchronization-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._linux-explicit-synchronization-unstable-v1-code.c.o -c tests/linux-explicit-synchronization-unstable-v1-code.c",
+    "file": "tests/linux-explicit-synchronization-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._linux-explicit-synchronization-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_linux_explicit_synchronization_linux_explicit_synchronization_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._pointer-constraints-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._pointer-constraints-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._pointer-constraints-unstable-v1-code.c.o -c tests/pointer-constraints-unstable-v1-code.c",
+    "file": "tests/pointer-constraints-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._pointer-constraints-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_constraints_pointer_constraints_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._pointer-gestures-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._pointer-gestures-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._pointer-gestures-unstable-v1-code.c.o -c tests/pointer-gestures-unstable-v1-code.c",
+    "file": "tests/pointer-gestures-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._pointer-gestures-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_pointer_gestures_pointer_gestures_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._primary-selection-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._primary-selection-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._primary-selection-unstable-v1-code.c.o -c tests/primary-selection-unstable-v1-code.c",
+    "file": "tests/primary-selection-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._primary-selection-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_primary_selection_primary_selection_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._relative-pointer-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._relative-pointer-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._relative-pointer-unstable-v1-code.c.o -c tests/relative-pointer-unstable-v1-code.c",
+    "file": "tests/relative-pointer-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._relative-pointer-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_relative_pointer_relative_pointer_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._tablet-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._tablet-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._tablet-unstable-v1-code.c.o -c tests/tablet-unstable-v1-code.c",
+    "file": "tests/tablet-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._tablet-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.c.o -MF tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.c.o.d -o tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.c.o -c tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.c",
+    "file": "tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.c",
+    "output": "tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._tablet-unstable-v2-code.c.o -MF tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._tablet-unstable-v2-code.c.o.d -o tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._tablet-unstable-v2-code.c.o -c tests/tablet-unstable-v2-code.c",
+    "file": "tests/tablet-unstable-v2-code.c",
+    "output": "tests/test-build-pedantic-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._tablet-unstable-v2-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.cc.o -MF tests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.cc.o.d -o tests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.cc.o -c tests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.cc",
+    "file": "tests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.cc",
+    "output": "tests/test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_tablet_tablet_unstable_v2_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._text-input-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._text-input-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._text-input-unstable-v1-code.c.o -c tests/text-input-unstable-v1-code.c",
+    "file": "tests/text-input-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._text-input-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.c.o -MF tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.c.o.d -o tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.c.o -c tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.c",
+    "file": "tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.c",
+    "output": "tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._text-input-unstable-v3-code.c.o -MF tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._text-input-unstable-v3-code.c.o.d -o tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._text-input-unstable-v3-code.c.o -c tests/text-input-unstable-v3-code.c",
+    "file": "tests/text-input-unstable-v3-code.c",
+    "output": "tests/test-build-pedantic-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._text-input-unstable-v3-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.cc.o -MF tests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.cc.o.d -o tests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.cc.o -c tests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.cc",
+    "file": "tests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.cc",
+    "output": "tests/test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.p/meson-generated_.._test-build-cxx-unstable_text_input_text_input_unstable_v3_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._xdg-decoration-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._xdg-decoration-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._xdg-decoration-unstable-v1-code.c.o -c tests/xdg-decoration-unstable-v1-code.c",
+    "file": "tests/xdg-decoration-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._xdg-decoration-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_decoration_xdg_decoration_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._xdg-foreign-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._xdg-foreign-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._xdg-foreign-unstable-v1-code.c.o -c tests/xdg-foreign-unstable-v1-code.c",
+    "file": "tests/xdg-foreign-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v1_xml.p/meson-generated_.._xdg-foreign-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.c.o -MF tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.c.o.d -o tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.c.o -c tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._xdg-foreign-unstable-v2-code.c.o -MF tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._xdg-foreign-unstable-v2-code.c.o.d -o tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._xdg-foreign-unstable-v2-code.c.o -c tests/xdg-foreign-unstable-v2-code.c",
+    "file": "tests/xdg-foreign-unstable-v2-code.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._xdg-foreign-unstable-v2-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.cc.o -MF tests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.cc.o.d -o tests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.cc.o -c tests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.cc",
+    "file": "tests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.cc",
+    "output": "tests/test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_foreign_xdg_foreign_unstable_v2_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._xdg-output-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._xdg-output-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._xdg-output-unstable-v1-code.c.o -c tests/xdg-output-unstable-v1-code.c",
+    "file": "tests/xdg-output-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._xdg-output-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_output_xdg_output_unstable_v1_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.c.o -MF tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.c.o.d -o tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.c.o -c tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._xdg-shell-unstable-v5-code.c.o -MF tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._xdg-shell-unstable-v5-code.c.o.d -o tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._xdg-shell-unstable-v5-code.c.o -c tests/xdg-shell-unstable-v5-code.c",
+    "file": "tests/xdg-shell-unstable-v5-code.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._xdg-shell-unstable-v5-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.cc.o -MF tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.cc.o.d -o tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.cc.o -c tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.cc",
+    "file": "tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.cc",
+    "output": "tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v5_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.c.o -MF tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.c.o.d -o tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.c.o -c tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._xdg-shell-unstable-v6-code.c.o -MF tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._xdg-shell-unstable-v6-code.c.o.d -o tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._xdg-shell-unstable-v6-code.c.o -c tests/xdg-shell-unstable-v6-code.c",
+    "file": "tests/xdg-shell-unstable-v6-code.c",
+    "output": "tests/test-build-pedantic-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._xdg-shell-unstable-v6-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.cc.o -MF tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.cc.o.d -o tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.cc.o -c tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.cc",
+    "file": "tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.cc",
+    "output": "tests/test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.p/meson-generated_.._test-build-cxx-unstable_xdg_shell_xdg_shell_unstable_v6_xml.cc.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.c.o -MF tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.c.o.d -o tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.c.o -c tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.c",
+    "file": "tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.c",
+    "output": "tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "cc -Itests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O3 -std=c99 -pedantic -Wall -Werror -MD -MQ tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._xwayland-keyboard-grab-unstable-v1-code.c.o -MF tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._xwayland-keyboard-grab-unstable-v1-code.c.o.d -o tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._xwayland-keyboard-grab-unstable-v1-code.c.o -c tests/xwayland-keyboard-grab-unstable-v1-code.c",
+    "file": "tests/xwayland-keyboard-grab-unstable-v1-code.c",
+    "output": "tests/test-build-pedantic-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._xwayland-keyboard-grab-unstable-v1-code.c.o"
+  },
+  {
+    "directory": "/home/mobian/source-code/wayland-protocols/wayland-protocols-1.21/build",
+    "command": "c++ -Itests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p -Itests -I../tests -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O3 -Wall -Werror -MD -MQ tests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.cc.o -MF tests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.cc.o.d -o tests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.cc.o -c tests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.cc",
+    "file": "tests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.cc",
+    "output": "tests/test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.p/meson-generated_.._test-build-cxx-unstable_xwayland_keyboard_grab_xwayland_keyboard_grab_unstable_v1_xml.cc.o"
+  }
+]

@@ -1,0 +1,7 @@
+[options]
+documentation = false
+prefix = /usr
+buildtype = release
+
+[properties]
+
