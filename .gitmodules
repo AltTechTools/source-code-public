@@ -55,3 +55,9 @@
 [submodule "dwl-edits"]
 	path = dwl-edits
 	url = https://github.com/AltTechTools/dwl-edits.git
+[submodule "lightdm-greeters"]
+	path = lightdm-greeters
+	url = https://github.com/AltTechTools/lightdm-greeters.git
+[submodule "misc"]
+	path = misc
+	url = https://github.com/AltTechTools/miscellaneous-public
