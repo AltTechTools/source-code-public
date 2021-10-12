@@ -52,3 +52,6 @@
 [submodule "onscreenkeyboards"]
 	path = onscreenkeyboards
 	url = https://github.com/AltTechTools/onscreenkeyboards.git
+[submodule "dwl-edits"]
+	path = dwl-edits
+	url = https://github.com/AltTechTools/dwl-edits.git
