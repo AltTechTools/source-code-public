@@ -46,3 +46,6 @@
 [submodule "dwm-edits"]
 	path = dwm-edits
 	url = https://github.com/AltTechTools/dwm-edits.git
+[submodule "dmenu-edits"]
+	path = dmenu-edits
+	url = https://github.com/AltTechTools/dmenu-edits.git
