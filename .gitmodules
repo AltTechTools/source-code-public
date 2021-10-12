@@ -43,3 +43,6 @@
 [submodule "wshowkeys-git"]
 	path = wshowkeys/wshowkeys-git
 	url = https://aur.archlinux.org/wshowkeys-git.git
+[submodule "dwm-edits"]
+	path = dwm-edits
+	url = https://github.com/AltTechTools/dwm-edits.git
